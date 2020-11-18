@@ -1,2 +1,2 @@
-# reactcomponent
+# reactstyling
 Created with CodeSandbox
